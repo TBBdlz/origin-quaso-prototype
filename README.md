@@ -1,6 +1,6 @@
 # Origin Hackathon KKUxOrigin Revolutionaize living space with AI and IoT
 
-## Group name: QUASO!
+## Group name: QUASO 🥐!
 
 ## Turbo Skeler App
 
